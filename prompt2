@@ -1,0 +1,196 @@
+Prompt 2
+
+# Contexto Atual do Produto
+
+Você é um time sênior composto por:
+- Product Manager de Fintech
+- Especialista em UX Conversacional
+- Analista de Finanças Pessoais (Brasil)
+- Arquiteto de Software
+- Especialista em IA aplicada a comportamento financeiro
+
+Estou desenvolvendo um aplicativo chamado **Fina**, um app de controle de finanças pessoais **100% conversacional**, focado em simplicidade, empatia e criação de hábito financeiro.
+
+O app **já está funcional e validado tecnicamente**, com as seguintes features implementadas:
+
+## Funcionalidades Já Existentes
+- Onboarding conversacional (4 telas, empático)
+- Chat principal com a agente “Fina”
+  - Quick actions: Gastei, Recebi, Meu saldo, Dica
+  - Respostas inteligentes baseadas em palavras-chave
+  - Animações suaves e indicador de digitação
+- Dashboard financeiro resumido
+  - Saldo disponível
+  - Entradas e saídas
+  - Dinheiro livre
+  - Orçamento usado
+  - Progresso da meta principal
+  - Top 3 categorias de gastos
+- Tela de Metas
+  - Curto, médio e longo prazo
+  - Visualização clara de progresso e valor restante
+- Relatórios visuais
+  - Evolução mensal
+  - Gastos por categoria (pizza)
+  - Insights automáticos
+- Perfil do usuário e gamificação básica
+- Design system próprio
+  - Paleta calma (verde-água + coral)
+  - Tipografia Plus Jakarta Sans + DM Sans
+  - Animações com Framer Motion
+
+O app está estável, sem erros, e pronto para evoluir.
+
+---
+
+# Objetivo Deste Prompt
+
+Quero **expandir radicalmente as funcionalidades do Fina**, transformando-o em um **assistente financeiro pessoal completo**, inteligente e progressivo, sem perder:
+- Simplicidade
+- Linguagem humana
+- Conversa natural
+- Baixa fricção
+- Sensação de companhia financeira
+
+O foco é **ir além do controle básico** e incluir:
+- Planejamento financeiro real
+- Automação
+- Prevenção de problemas financeiros
+- Consciência comportamental
+- Engajamento de longo prazo
+
+---
+
+# O Que Quero Que Você Crie
+
+Crie um **documento completo em Markdown**, propondo **NOVAS FUNCIONALIDADES AVANÇADAS**, organizadas por camadas de maturidade do usuário.
+
+## 1. Novas Funcionalidades (Expansão Profunda)
+
+Proponha funcionalidades como (mas não se limite a):
+- Controle de contas e cartões
+- Parcelamentos e dívidas
+- Assinaturas e gastos recorrentes
+- Calendário financeiro inteligente
+- Alertas preditivos (antes do problema acontecer)
+- Planejamento mensal automático
+- Simulações financeiras simples (“e se eu…”)
+- Reserva de emergência guiada
+- Diagnóstico financeiro pessoal
+- Detecção de padrões e hábitos
+- Comparação de meses e tendências
+- Planejamento de grandes compras
+- Organização por contas (corrente, poupança, dinheiro)
+- Gestão de múltiplas rendas
+- Controle familiar ou compartilhado (opcional)
+- Modo “financeiramente apertado”
+- Modo “quero economizar mais”
+- Modo “organizar dívidas”
+
+Para cada funcionalidade, detalhe:
+- Problema que resolve
+- Como funciona via conversa
+- Dados necessários
+- Valor percebido pelo usuário
+- Complexidade (baixa, média, alta)
+
+---
+
+## 2. Evolução do Agente “Fina”
+Descreva como a Fina pode evoluir para:
+- Agente mais proativo (sem ser invasivo)
+- Coach financeiro leve
+- Espelho de comportamento financeiro
+- Guia de decisão (não prescritivo)
+
+Inclua:
+- Tipos de personalidade configuráveis
+- Frequência adaptativa de mensagens
+- Exemplos reais de falas
+- Limites éticos e de privacidade
+
+---
+
+## 3. Novos Fluxos Conversacionais Avançados
+Crie exemplos de diálogos para:
+- Planejamento do mês
+- Aviso de risco financeiro futuro
+- Detecção de gasto fora do padrão
+- Ajuda em mês negativo
+- Organização de dívidas
+- Incentivo à constância
+- Retorno após abandono do app
+
+---
+
+## 4. Modelo de Dados Expandido
+Descreva novas entidades e campos para suportar:
+- Dívidas
+- Parcelamentos
+- Assinaturas
+- Contas
+- Cartões
+- Alertas
+- Padrões comportamentais
+- Histórico de decisões
+
+---
+
+## 5. Inteligência Financeira e Regras
+Defina:
+- Regras de detecção de risco
+- Regras de sugestão de economia
+- Regras de silêncio (quando NÃO falar)
+- Priorização de mensagens
+- Personalização por perfil financeiro
+
+---
+
+## 6. Relatórios Avançados (Ainda Simples)
+Proponha novos relatórios como:
+- Saúde financeira
+- Previsão de fim de mês
+- Onde o dinheiro “escapa”
+- Evolução de hábitos
+- Progresso real de metas
+Sempre com explicação humana, não técnica.
+
+---
+
+## 7. Gamificação Evoluída
+Crie um sistema de:
+- Níveis financeiros
+- Jornadas (ex: sair do vermelho)
+- Missões semanais opcionais
+- Recompensas simbólicas
+- Feedback emocional positivo
+
+---
+
+## 8. Roadmap de Evolução (Próximos 3–6 Meses)
+- Fases claras
+- Dependências técnicas
+- Quick wins
+- Funcionalidades de alto impacto
+
+---
+
+## Restrições Importantes
+- Não oferecer aconselhamento financeiro prescritivo
+- Não infantilizar o usuário
+- Linguagem brasileira, humana e respeitosa
+- Foco em clareza e empatia
+- Privacidade sempre explicada de forma simples
+
+---
+
+## Formato da Resposta
+- Markdown estruturado
+- Títulos claros
+- Listas objetivas
+- Exemplos reais em PT-BR
+- Documento pronto para produto, UX e tecnologia
+
+---
+
+**Comece diretamente pelo item 1: Novas Funcionalidades (Expansão Profunda).**
