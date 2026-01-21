@@ -230,3 +230,5 @@ Crie um **DOCUMENTO COMPLETO EM MARKDOWN**, estruturado e pronto para uso por ti
 ---
 
 **Inicie a resposta diretamente pelo item 1: Escopo do MVP.**
+
+Disponível em: https://chat-din-br.lovable.app/
