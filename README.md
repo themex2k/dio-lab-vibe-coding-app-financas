@@ -1,8 +1,3 @@
-Criação de Aplicativo de Finanças Pessoais Conversacional
-Prompt já estruturado para usar diretamente com uma IA e obter um documento robusto de produto/UX para um aplicativo de Controle de Finanças Pessoais Conversacional, com mais profundidade de dados, lógica financeira e experiência do usuário, sem perder a simplicidade.
-
-
-
 # PROMPT — Criação de Aplicativo de Finanças Pessoais Conversacional (Brasil | pt-BR)
 
 ## Contexto Geral
